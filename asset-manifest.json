@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ibrahimimohamed2108/FormulaireReact3/static/css/main.faaccc2b.css",
+    "main.js": "/ibrahimimohamed2108/FormulaireReact3/static/js/main.2f871582.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ibrahimimohamed2108/FormulaireReact3/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ibrahimimohamed2108/FormulaireReact3/index.html",
+    "main.faaccc2b.css.map": "/ibrahimimohamed2108/FormulaireReact3/static/css/main.faaccc2b.css.map",
+    "main.2f871582.js.map": "/ibrahimimohamed2108/FormulaireReact3/static/js/main.2f871582.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ibrahimimohamed2108/FormulaireReact3/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faaccc2b.css",
+    "static/js/main.2f871582.js"
+  ]
+}
